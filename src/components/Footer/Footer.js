@@ -5,7 +5,7 @@ import './Footer.css';
 
 const Footer = () => {
     return (
-        <div className='footer md:flex md:flex-row md:justify-between md:items-center md:py-14 md:px-36 py-7 px-8 mt-24'>
+        <div className='footer md:flex md:flex-row md:justify-between md:items-center md:py-14 md:px-36 py-8 px-8 mt-24'>
             <div className='space-y-12'>
                 <div>
                     <strong className='text-white'>MediPick</strong>
