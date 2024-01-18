@@ -1,0 +1,31 @@
+
+.hero h1 span {
+    color: rgb(63, 63, 244);
+}
+
+.hero p {
+    color: rgb(169, 169, 169);
+}
+
+.hero .work-button {
+    background-color: rgb(32, 32, 234);
+    color: white;
+    border-radius: .2rem;
+    padding: .3rem 1rem;
+}
+
+.hero .work-button:hover {
+    background-color: rgb(63, 63, 244);
+    color: white;
+    border-radius: .2rem;
+    padding: .3rem 1rem;
+}
+
+.hero .app-button {
+    border: 1px solid rgb(157, 157, 172);
+    background-color: white;
+    color: rgb(32, 32, 234);
+    border-radius: .2rem;
+    padding: .3rem 1rem;
+}
+

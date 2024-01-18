@@ -1,0 +1,16 @@
+.faq .faq-group p {
+    color: rgb(122, 122, 122);
+}
+
+.plus {
+    display: block;
+    width: .7rem;
+    height: .7rem;
+    cursor: pointer;
+    margin-top: .4rem;
+}
+
+.minus {
+    display: none;  
+    cursor: pointer;
+}

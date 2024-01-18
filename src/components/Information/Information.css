@@ -1,0 +1,28 @@
+.information .leading-service p {
+    color: rgb(122, 122, 122);
+}
+
+.information .info-group .icon {
+    stroke: blue;
+    background-color: rgba(226, 226, 226, 0.704);
+    padding: .3rem;
+    border-radius: 1rem;
+}
+
+.information .info {
+    padding: 1rem;
+    background-color: rgba(239, 239, 239, 0.704);
+    border-radius: .5rem;
+}
+
+.information .info .title {
+    margin-top: 1rem;
+    font-weight: 400;
+    font-size: 1.7rem;
+}
+
+.information .info .details {
+    margin-top: 1rem;
+    color: rgb(122, 122, 122);
+}
+
