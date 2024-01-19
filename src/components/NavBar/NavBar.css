@@ -1,5 +1,5 @@
 .nav-section .button {
-    background-color: rgb(32, 32, 234);
+    background-color: #2020ea;
     color: white;
     border-radius: .2rem;
     padding: .3rem 1rem;
@@ -24,4 +24,17 @@
 .nav-section .navs ul li a:hover {
     color: black;
     border-bottom: 2px solid rgb(63, 63, 244);
+}
+
+.side-nav {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    height: 100vh;
+};
+
+.side-nav .side-navs {
+    border: 1px red solid;
 }

@@ -16,11 +16,11 @@ const Footer = () => {
                         <p className='text-gray-300 text-[2rem]'>MediPick@gmail.com</p>
                         <svg xmlns="http://www.w3.org/2000/svg" width="1.8rem" height="1.8rem" fill="#fff" viewBox= "0 0 25 25" className='cursor-pointer'><path d="m17.5 5.999-.707.707 5.293 5.293H1v1h21.086l-5.294 5.295.707.707L24 12.499l-6.5-6.5z" data-name="Right"/></svg>
                     </div>
-                    <div className='flex flex-row items-center space-x-3 mt-3'>
+                    {/* <div className='flex flex-row items-center space-x-3 mt-3'>
                         <img src="./images/twitter.png" className='w-6 h-6'/>
-                        <img src="./images/linkedin.png" className='w-6 h-6'/>
-                        <img src="./images/facebook.png" className='w-6 h-6'/>
-                    </div>
+                        <img src="./images/linkedin.jpg" className='w-6 h-6'/>
+                        <img src="./images/facebook.jpg" className='w-6 h-6'/>
+                    </div> */}
                 </div>
             </div>
             <div className='md:flex md:flex-row md:justify-between md:items-center md:space-x-20 md:mt-0 mt-10 md:space-y-0 space-y-8'>

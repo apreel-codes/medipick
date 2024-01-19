@@ -13,11 +13,23 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-.doctors .image {
-    height: 22rem;
-    width: 100%;
-    border-radius: 1rem;
+@media screen and (max-width: 600px) {
+    .doctors .image {
+        height: 25rem;
+        width: 100%;
+        border-radius: 1rem;
+    }
 }
+
+@media screen and (min-width: 600px) {
+    .doctors .image {
+        height: 22rem;
+        width: 100%;
+        border-radius: 1rem;
+    }
+}
+
+
 
 
 .doctors .button {

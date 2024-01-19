@@ -3,7 +3,7 @@ import './Hero.css';
 
 const Hero = () => {
     return (
-        <div className='hero text-center w-[90%] mx-auto mt-[6rem]'>
+        <div className='hero text-center w-[90%] mx-auto mt-[3rem] md:mt-[6rem]'>
             <h1 className='md:text-[3rem] text-[2.1rem] font-semibold leading-11'>Providing Professional<br/>
             and Caring <span className=''>Health Services</span></h1>
             <p className='md:w-[40%] w-[90%] mx-auto mt-2'>Our commitment is to ensure that every patient receives top-notch medical care with a personal touch, creating an environment where health and well-being thrive.</p>
