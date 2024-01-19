@@ -5,7 +5,7 @@ import { appointData, doctors } from '../Appointment/AppointData';
 const Appointment = () => {
     return (
         <div>
-            <div className='appointment md:w-[90%] w-[85%] mx-auto text-center mt-20'>
+            <div className='appointment md:w-[95%] w-[85%] mx-auto text-center mt-20'>
                 <h2 className='md:text-[2.1rem] text-[1.8rem] font-medium'>Easy Doctor's Appointment</h2>
                 <p>Your journey to better health starts with a simple, efficient, and patient-focused appointment booking process.</p>
                 <div className='md:flex md:flex-row md:justify-between md:items-center grid grid-cols-2 gap-4 mt-10 md:w-[90%] mx-auto'>
