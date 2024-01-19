@@ -18,7 +18,7 @@ const showFAQ = () => {
         <div className='faq md:w-[83%] w-[85%] md:space-x-20 mx-auto md:flex md:flex-row md:justify-between md:items-center'>
             <div className='faq-group md:w-6/12'>
                 <h3 className='md:text-[2.5rem] text-[2rem] font-medium md:w-[23rem] md:leading-[3rem]'>Frequently Asked 
-                    Question</h3>
+                    Questions</h3>
                 <p className='text-[1rem] md:text-[1.2rem] text-justify mt-3'>Quick answers to questions you may have. Can't find what you're looking for?</p>
                 <div className='flex items-center mt-5 cursor-pointer'>
                     <a href='#' className='text-[#0000FF]'>View documentation</a>

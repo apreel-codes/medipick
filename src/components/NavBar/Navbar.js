@@ -20,7 +20,7 @@ const NavBar = () => {
                             <li className=''><a href='#career'>Career</a></li>
                         </ul>
                     </div>
-                    <button className='button'>Login</button>
+                    <button className='bg-[#2020EA] py-[.3rem] px-[1rem] rounded-md text-white'>Login</button>
                 </div>
                 <img src="./images/hamburger.png" className='md:hidden block' onClick={showSideNav}/>
             </div>
